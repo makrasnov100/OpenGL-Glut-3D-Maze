@@ -1,0 +1,67 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (EX14_01_SkyCube.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  InitShader.cpp
+c:\users\kostiantyn\desktop\part3\code\angel.h(63): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\kostiantyn\desktop\part3\code\mat.h(698): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\kostiantyn\desktop\part3\code\mat.h(699): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\kostiantyn\desktop\part3\code\mat.h(700): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\kostiantyn\desktop\part3\code\mat.h(721): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\kostiantyn\desktop\part3\code\mat.h(723): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\kostiantyn\desktop\part3\code\mat.h(726): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\kostiantyn\desktop\part3\code\mat.h(742): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\kostiantyn\desktop\part3\code\initshader.cpp(10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+  LoadBitmap.cpp
+c:\users\kostiantyn\desktop\part3\code\angel.h(63): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\kostiantyn\desktop\part3\code\mat.h(698): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\kostiantyn\desktop\part3\code\mat.h(699): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\kostiantyn\desktop\part3\code\mat.h(700): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\kostiantyn\desktop\part3\code\mat.h(721): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\kostiantyn\desktop\part3\code\mat.h(723): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\kostiantyn\desktop\part3\code\mat.h(726): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\kostiantyn\desktop\part3\code\mat.h(742): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\kostiantyn\desktop\part3\code\loadbitmap.cpp(52): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+  main.cpp
+c:\users\kostiantyn\desktop\part3\code\main.cpp(24): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\kostiantyn\desktop\part3\code\angel.h(63): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\kostiantyn\desktop\part3\code\mat.h(698): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\kostiantyn\desktop\part3\code\mat.h(699): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\kostiantyn\desktop\part3\code\mat.h(700): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\kostiantyn\desktop\part3\code\mat.h(721): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\kostiantyn\desktop\part3\code\mat.h(723): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\kostiantyn\desktop\part3\code\mat.h(726): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\kostiantyn\desktop\part3\code\mat.h(742): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\kostiantyn\desktop\part3\code\tree.h(156): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+c:\users\kostiantyn\desktop\part3\code\main.cpp(46): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\kostiantyn\desktop\part3\code\main.cpp(58): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\kostiantyn\desktop\part3\code\main.cpp(59): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\kostiantyn\desktop\part3\code\main.cpp(82): warning C4018: '<': signed/unsigned mismatch
+c:\users\kostiantyn\desktop\part3\code\main.cpp(96): warning C4018: '<': signed/unsigned mismatch
+c:\users\kostiantyn\desktop\part3\code\main.cpp(127): warning C4018: '<': signed/unsigned mismatch
+c:\users\kostiantyn\desktop\part3\code\main.cpp(162): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+c:\users\kostiantyn\desktop\part3\code\main.cpp(163): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+c:\users\kostiantyn\desktop\part3\code\main.cpp(167): warning C4244: '=': conversion from 'const _Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+c:\users\kostiantyn\desktop\part3\code\main.cpp(168): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\kostiantyn\desktop\part3\code\main.cpp(179): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\users\kostiantyn\desktop\part3\code\main.cpp(305): warning C4018: '>=': signed/unsigned mismatch
+c:\users\kostiantyn\desktop\part3\code\main.cpp(419): warning C4018: '<': signed/unsigned mismatch
+c:\users\kostiantyn\desktop\part3\code\main.cpp(450): warning C4018: '<': signed/unsigned mismatch
+c:\users\kostiantyn\desktop\part3\code\main.cpp(452): warning C4018: '<': signed/unsigned mismatch
+c:\users\kostiantyn\desktop\part3\code\main.cpp(457): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  MyLoadBitmap.cpp
+c:\users\kostiantyn\desktop\part3\code\angel.h(63): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\kostiantyn\desktop\part3\code\mat.h(698): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\kostiantyn\desktop\part3\code\mat.h(699): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\kostiantyn\desktop\part3\code\mat.h(700): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\kostiantyn\desktop\part3\code\mat.h(721): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\kostiantyn\desktop\part3\code\mat.h(723): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\kostiantyn\desktop\part3\code\mat.h(726): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\kostiantyn\desktop\part3\code\mat.h(742): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\kostiantyn\desktop\part3\code\myloadbitmap.cpp(48): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+  Generating Code...
+  Midterm_Project.vcxproj -> C:\Users\Kostiantyn\Desktop\PART3\Code\Debug\Midterm_Part_C.exe
