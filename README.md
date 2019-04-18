@@ -34,5 +34,5 @@ Collision is handled by making use of a basic distance function. This effectivel
   * Textured bricks and skyBox
   * Mouse centering
   * Projection, translation and scale matricies usage
- 
- ![Capture3](https://user-images.githubusercontent.com/32151128/56340897-29f62100-6168-11e9-8b3f-c792c7dfcc21.JPG)
+  
+![Capture1](https://user-images.githubusercontent.com/32151128/56340453-d3d4ae00-6166-11e9-80d4-65766bd184c6.JPG)
