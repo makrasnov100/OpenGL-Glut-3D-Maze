@@ -12,7 +12,7 @@ Movement:
   * Mouse Movement - rotate the camera (look around)
   
 Window Actions:
-  * ESC - Disable mouse centering and input
+  * ESC - disable mouse centering and input
   * Q - quit the program
 
 
